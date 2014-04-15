@@ -1,0 +1,11 @@
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\bin\Debug\WallUpdate.pdb
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\obj\x86\Debug\WallUpdate.pdb
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\bin\Debug\WallUpdate.exe
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\obj\x86\Debug\WallUpdate.exe
+C:\Users\Joe Dailey\Dropbox\Solution1\ConsoleApplication1\bin\Debug\WallUpdate.exe.config
+C:\Users\JoeDailey\Dropbox\SoftwareCenter\REdditWaller\ConsoleApplication1\bin\Debug\WallUpdate.exe.config
+C:\Users\JoeDailey\Dropbox\SoftwareCenter\REdditWaller\ConsoleApplication1\obj\x86\Debug\WallUpdate.exe
+C:\Users\JoeDailey\Dropbox\SoftwareCenter\REdditWaller\ConsoleApplication1\obj\x86\Debug\WallUpdate.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{9C33480B-F209-4B67-A234-D6BB168FD2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallUpdate", "ConsoleApplication1\WallUpdate.csproj", "{912B8E40-9998-49CE-9E3E-911B17E68E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{14E4D15C-C1F6-4BA2-8668-F95542D7C25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C33480B-F209-4B67-A234-D6BB168FD2B4}.Debug|x86.ActiveCfg = Debug|x86
+		{9C33480B-F209-4B67-A234-D6BB168FD2B4}.Debug|x86.Build.0 = Debug|x86
+		{9C33480B-F209-4B67-A234-D6BB168FD2B4}.Release|x86.ActiveCfg = Release|x86
+		{9C33480B-F209-4B67-A234-D6BB168FD2B4}.Release|x86.Build.0 = Release|x86
+		{912B8E40-9998-49CE-9E3E-911B17E68E9E}.Debug|x86.ActiveCfg = Debug|x86
+		{912B8E40-9998-49CE-9E3E-911B17E68E9E}.Debug|x86.Build.0 = Debug|x86
+		{912B8E40-9998-49CE-9E3E-911B17E68E9E}.Release|x86.ActiveCfg = Release|x86
+		{912B8E40-9998-49CE-9E3E-911B17E68E9E}.Release|x86.Build.0 = Release|x86
+		{14E4D15C-C1F6-4BA2-8668-F95542D7C25E}.Debug|x86.ActiveCfg = Debug|x86
+		{14E4D15C-C1F6-4BA2-8668-F95542D7C25E}.Debug|x86.Build.0 = Debug|x86
+		{14E4D15C-C1F6-4BA2-8668-F95542D7C25E}.Release|x86.ActiveCfg = Release|x86
+		{14E4D15C-C1F6-4BA2-8668-F95542D7C25E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
